@@ -29,4 +29,5 @@ Tweaked the web scraper github repo (above) to scrape 1000 job postings from gla
 # Implementing Video
 https://github.com/user-attachments/assets/e804eec5-7bbe-4963-8b4f-98d04e23f092
 
-
+## Tutorial Course
+https://youtu.be/GmW4F6MHqqs?si=63AZUdR8jVGEOFC9
