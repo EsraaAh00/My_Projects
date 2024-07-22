@@ -36,6 +36,8 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the tot
 ![Sales_Dashboard](https://github.com/EsraaAh00/My_Projects/assets/159416426/3a036952-6b4a-40be-8251-47f2b07f07a8)
 
 ## Tutorial Course
+
 part1 => https://youtu.be/3Acmk-rqn6c?si=ZWIvl5N7bvgapn6b
+
 part2 => https://youtu.be/wGJYJ42V8OQ?si=di6ygrH80Cjnmd-8
 
