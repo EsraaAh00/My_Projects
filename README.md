@@ -18,15 +18,14 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/EsraaAh00/My_Projects/blob/25e7daf663b46b1b80b41c31b7a3cccb4cdff69c/README.md#about)
 - [Portfolio Projects](https://github.com/EsraaAh00/My_Projects/blob/25e7daf663b46b1b80b41c31b7a3cccb4cdff69c/README.md#portfolio-projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+    - [Bitcoin Price Forecasting using Time Series Analysis](https://github.com/EsraaAh00/My_Projects/tree/af8dd4574f805e6d89bb8b966b817e9cfc109327/Bitcoin%20Price%20Forecasting%20using%20Time%20Series%20Analysis)
+    - [Scrapping Data from Glassdoor website Using Python](https://github.com/EsraaAh00/My_Projects/tree/af8dd4574f805e6d89bb8b966b817e9cfc109327/Scrapping%20Data%20from%20Glassdoor%20website%20Using%20Python)  
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
+     - [Sales Dashboard using SQL and Excel](https://github.com/EsraaAh00/My_Projects/tree/af8dd4574f805e6d89bb8b966b817e9cfc109327/Sales%20Dashboard%20using%20SQL%20and%20Excel)
   - Excel / Google Sheets
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
+    - [Sales Dashboard using SQL and Excel](https://github.com/EsraaAh00/My_Projects/tree/af8dd4574f805e6d89bb8b966b817e9cfc109327/Sales%20Dashboard%20using%20SQL%20and%20Excel)
   - Power BI
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
+    - [NBA Stats Player Dashboard using Powerbi](https://github.com/EsraaAh00/My_Projects/tree/af8dd4574f805e6d89bb8b966b817e9cfc109327/NBA%20Stats%20Player%20Dashboard%20using%20Powerbi)
 
 
 - [Education](https://github.com/EsraaAh00/My_Projects/blob/25e7daf663b46b1b80b41c31b7a3cccb4cdff69c/README.md#education)  
@@ -35,71 +34,18 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+### Bitcoin Price Forecasting using Time Series Analysis
+**Code:** [`Code_Implementation.ipynb`](https://github.com/EsraaAh00/My_Projects/blob/af8dd4574f805e6d89bb8b966b817e9cfc109327/Bitcoin%20Price%20Forecasting%20using%20Time%20Series%20Analysis/Code_Implementation.ipynb)
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Goal:** The objective of the study is to forecast the price of Bitcoin using a combination of statistical models and machine learning techniques.
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description:** The project focused on analyzing Bitcoin price data from January 2015 to the current date, using daily intervals. The study explores the effectiveness of different models such as Prophet, ARIMA, SARIMA, GARCH, LSTM, and XGBoost in forecasting Bitcoin prices. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation and implemented statistical analysis. Various evaluation metrics such as Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), and Mean Squared Error (MSE) are used to assess the performance of the forecasting models.
 
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
-
-### Tech Store Sales Analysis
-
-**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
-
-**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
-
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
-
-**Technology:** Python, Pandas, Matplotlib.
-
-**Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
-
-
-
-### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
-
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
-
-
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
-
-**Technology:** SQL Server
-
-
-### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
-
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
-
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-**Technology:** SQL Server
-
-
-
-### Legendary Pokémon Analysis
-
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
-
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
-
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Technology:** Tidyverse 
-
-
-
+**Results:** LSTM Model Performance: The LSTM model emerges as the top performer with remarkable accuracy, demonstrating a low Mean Absolute Error (MAE) of 637.830, a minimal Mean Absolute Percentage Error (MAPE) of 2.368%, and a precise Root Mean Squared Error (RMSE) of 903.149. The LSTM model shows proficiency in capturing complex temporal dependencies in Bitcoin price data, achieving an accuracy rate of 97.66%.GARCH Model Performance: The GARCH model excels in addressing volatility aspects, as indicated by its competitive RMSE of 3.516, MAE of 3.031, and notable MAPE of 28.902%.The results suggest that LSTM is an adept pattern recognizer, while GARCH effectively handles volatility, making them the top-performing models for Bitcoin price forecasting.
 
 
 ## Education
@@ -117,9 +63,11 @@ Grade: Very Good
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+- [Google Advanced Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/JPJXY8H8UBAF) (March 2024) (Coursera - Google)
+- [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/Z98A83NX6UHX) (Dec 2024) (Coursera - Google)
+- [Google Business Intelligence Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/BBGWB423N4TW) (Oct 2023) (Coursera - Google)
+- [Predictive Analytics Modeler Certificate](https://www.credly.com/badges/5a6fe1c5-398a-46b0-be46-ccba652c5a3b/linked_in_profile) (Oct 2023) (IBM - Issuing organization)
+- [Business Intelligence Analyst Certificate](https://www.credly.com/badges/c8f83d23-c263-41ff-8e1a-4d4bfec7fa43/linked_in_profile) (Sep 2023) (IBM - Issuing organization)
 
 ## Contacts
 - LinkedIn: [@esraaahmed](https://www.linkedin.com/in/esraa-ahmed-773083167/)
