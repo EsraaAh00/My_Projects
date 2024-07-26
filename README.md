@@ -10,13 +10,13 @@ In my free time, I enjoy exploring new data analysis tools and techniques, alway
 
 I am excited to bring my expertise and enthusiasm to a data analyst position, where I can contribute to impactful data-driven decision-making and continuous learning.
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My CV in [pdf](https://github.com/EsraaAh00/My_Projects/blob/25e7daf663b46b1b80b41c31b7a3cccb4cdff69c/Esraa%20Ahmed%20CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/EsraaAh00/My_Projects/blob/25e7daf663b46b1b80b41c31b7a3cccb4cdff69c/README.md#about)
+- [Portfolio Projects](https://github.com/EsraaAh00/My_Projects/blob/25e7daf663b46b1b80b41c31b7a3cccb4cdff69c/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
@@ -29,9 +29,9 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
 
 
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/EsraaAh00/My_Projects/blob/25e7daf663b46b1b80b41c31b7a3cccb4cdff69c/README.md#education)  
+- [Certificates](https://github.com/EsraaAh00/My_Projects/blob/25e7daf663b46b1b80b41c31b7a3cccb4cdff69c/README.md#certificates)
+- [Contact](https://github.com/EsraaAh00/My_Projects/blob/25e7daf663b46b1b80b41c31b7a3cccb4cdff69c/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
