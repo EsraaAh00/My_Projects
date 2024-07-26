@@ -41,7 +41,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** The project focused on analyzing Bitcoin price data from January 2015 to the current date, using daily intervals. The study explores the effectiveness of different models such as Prophet, ARIMA, SARIMA, GARCH, LSTM, and XGBoost in forecasting Bitcoin prices. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation and implemented statistical analysis. Various evaluation metrics such as Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), and Mean Squared Error (MSE) are used to assess the performance of the forecasting models.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, Time Series Analysis, data visualization.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
@@ -57,7 +57,7 @@ Alexandria University: BSc. in Commerce- Management Information Systems (MIS) Ma
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [Google Advanced Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/JPJXY8H8UBAF) (March 2024) (Coursera - Google)
-- [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/Z98A83NX6UHX) (Dec 2024) (Coursera - Google)
+- [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/Z98A83NX6UHX) (Dec 2023) (Coursera - Google)
 - [Google Business Intelligence Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/BBGWB423N4TW) (Oct 2023) (Coursera - Google)
 - [Predictive Analytics Modeler Certificate](https://www.credly.com/badges/5a6fe1c5-398a-46b0-be46-ccba652c5a3b/linked_in_profile) (Oct 2023) (IBM - Issuing organization)
 - [Business Intelligence Analyst Certificate](https://www.credly.com/badges/c8f83d23-c263-41ff-8e1a-4d4bfec7fa43/linked_in_profile) (Sep 2023) (IBM - Issuing organization)
