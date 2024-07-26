@@ -51,13 +51,17 @@ In this section I will list data analytics projects briefly describing the techn
 ## Education
 University of Science Malaysia, Powered by the Ministry of Information and Technology (MCIT): 
 Master of Business Analytics,
+
 02/2023 – 03/2024
+
 Grade: Excellent
 
 Alexandria University:
 BSc. in Commerce- Management Information Systems (MIS) Major Department of 
 Information Systems and Computers, English section, 
+
 09/2017 – 07/2021
+
 Grade: Very Good
 
 
