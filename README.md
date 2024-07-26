@@ -15,8 +15,8 @@ My CV in [pdf](https://github.com/EsraaAh00/My_Projects/blob/25e7daf663b46b1b80b
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/EsraaAh00/My_Projects/edit/main/README.md#about)
-- [Portfolio Projects](https://github.com/EsraaAh00/My_Projects/edit/main/README.md#portfolio-projects)
+- [About](https://github.com/EsraaAh00/My_Projects/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/EsraaAh00/My_Projects/blob/main/README.md#portfolio-projects)
   - Python
     - [Bitcoin Price Forecasting using Time Series Analysis](https://github.com/EsraaAh00/My_Projects/tree/af8dd4574f805e6d89bb8b966b817e9cfc109327/Bitcoin%20Price%20Forecasting%20using%20Time%20Series%20Analysis)
     - [Scrapping Data from Glassdoor website Using Python](https://github.com/EsraaAh00/My_Projects/tree/af8dd4574f805e6d89bb8b966b817e9cfc109327/Scrapping%20Data%20from%20Glassdoor%20website%20Using%20Python)  
@@ -28,9 +28,9 @@ This is a repository to showcase skills, share projects and track my progress in
     - [NBA Stats Player Dashboard using Powerbi](https://github.com/EsraaAh00/My_Projects/tree/af8dd4574f805e6d89bb8b966b817e9cfc109327/NBA%20Stats%20Player%20Dashboard%20using%20Powerbi)
 
 
-- [Education](https://github.com/EsraaAh00/My_Projects/edit/main/README.md#education)  
-- [Certificates](https://github.com/EsraaAh00/My_Projects/edit/main/README.md#certificates)
-- [Contact](https://github.com/EsraaAh00/My_Projects/edit/main/README.md#contacts)
+- [Education](https://github.com/EsraaAh00/My_Projects/blob/main/README.md#education)  
+- [Certificates](https://github.com/EsraaAh00/My_Projects/blob/main/README.md#certificates)
+- [Contact](https://github.com/EsraaAh00/My_Projects/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
