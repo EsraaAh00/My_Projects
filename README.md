@@ -10,7 +10,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, alway
 
 I am excited to bring my expertise and enthusiasm to a data analyst position, where I can contribute to impactful data-driven decision-making and continuous learning.
 
-My CV in [pdf](https://github.com/EsraaAh00/My_Projects/blob/25e7daf663b46b1b80b41c31b7a3cccb4cdff69c/Esraa%20Ahmed%20CV.pdf).
+My CV in [pdf](https://github.com/EsraaAh00/My_Projects/blob/main/Esraa%20Ahmed%20CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
@@ -18,14 +18,14 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/EsraaAh00/My_Projects/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/EsraaAh00/My_Projects/blob/main/README.md#portfolio-projects)
   - Python
-    - [Bitcoin Price Forecasting using Time Series Analysis](https://github.com/EsraaAh00/My_Projects/tree/af8dd4574f805e6d89bb8b966b817e9cfc109327/Bitcoin%20Price%20Forecasting%20using%20Time%20Series%20Analysis)
-    - [Scrapping Data from Glassdoor website Using Python](https://github.com/EsraaAh00/My_Projects/tree/af8dd4574f805e6d89bb8b966b817e9cfc109327/Scrapping%20Data%20from%20Glassdoor%20website%20Using%20Python)  
+    - [Bitcoin Price Forecasting using Time Series Analysis](https://github.com/EsraaAh00/My_Projects/blob/main/Bitcoin%20Price%20Forecasting%20using%20Time%20Series%20Analysis)
+    - [Scrapping Data from Glassdoor website Using Python](https://github.com/EsraaAh00/My_Projects/blob/main/Scrapping%20Data%20from%20Glassdoor%20website%20Using%20Python)  
   - SQL
-     - [Sales Dashboard using SQL and Excel](https://github.com/EsraaAh00/My_Projects/tree/af8dd4574f805e6d89bb8b966b817e9cfc109327/Sales%20Dashboard%20using%20SQL%20and%20Excel)
+     - [Sales Dashboard using SQL and Excel](https://github.com/EsraaAh00/My_Projects/blob/main/Sales%20Dashboard%20using%20SQL%20and%20Excel)
   - Excel / Google Sheets
-    - [Sales Dashboard using SQL and Excel](https://github.com/EsraaAh00/My_Projects/tree/af8dd4574f805e6d89bb8b966b817e9cfc109327/Sales%20Dashboard%20using%20SQL%20and%20Excel)
+    - [Sales Dashboard using SQL and Excel](https://github.com/EsraaAh00/My_Projects/blob/main/Sales%20Dashboard%20using%20SQL%20and%20Excel)
   - Power BI
-    - [NBA Stats Player Dashboard using Powerbi](https://github.com/EsraaAh00/My_Projects/tree/af8dd4574f805e6d89bb8b966b817e9cfc109327/NBA%20Stats%20Player%20Dashboard%20using%20Powerbi)
+    - [NBA Stats Player Dashboard using Powerbi](https://github.com/EsraaAh00/My_Projects/blob/main/NBA%20Stats%20Player%20Dashboard%20using%20Powerbi)
 
 
 - [Education](https://github.com/EsraaAh00/My_Projects/blob/main/README.md#education)  
