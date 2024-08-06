@@ -19,13 +19,16 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/EsraaAh00/My_Projects/blob/main/README.md#portfolio-projects)
   - Python
     - [Bitcoin Price Forecasting using Time Series Analysis](https://github.com/EsraaAh00/My_Projects/blob/main/Bitcoin%20Price%20Forecasting%20using%20Time%20Series%20Analysis)
-    - [Scrapping Data from Glassdoor website Using Python](https://github.com/EsraaAh00/My_Projects/blob/main/Scrapping%20Data%20from%20Glassdoor%20website%20Using%20Python)  
+    - [Scrapping Data from Glassdoor website Using Python](https://github.com/EsraaAh00/My_Projects/blob/main/Scrapping%20Data%20from%20Glassdoor%20website%20Using%20Python)
+    - [Customer Churn prediction and Visualization](https://github.com/EsraaAh00/My_Projects/blob/main/Customer%20Churn%20prediction%20and%20Visualization) 
   - SQL
      - [Sales Dashboard using SQL and Excel](https://github.com/EsraaAh00/My_Projects/blob/main/Sales%20Dashboard%20using%20SQL%20and%20Excel)
+     - [Customer Churn prediction and Visualization](https://github.com/EsraaAh00/My_Projects/blob/main/Customer%20Churn%20prediction%20and%20Visualization) 
   - Excel / Google Sheets
     - [Sales Dashboard using SQL and Excel](https://github.com/EsraaAh00/My_Projects/blob/main/Sales%20Dashboard%20using%20SQL%20and%20Excel)
   - Power BI
     - [NBA Stats Player Dashboard using Powerbi](https://github.com/EsraaAh00/My_Projects/blob/main/NBA%20Stats%20Player%20Dashboard%20using%20Powerbi)
+    - [Customer Churn prediction and Visualization](https://github.com/EsraaAh00/My_Projects/blob/main/Customer%20Churn%20prediction%20and%20Visualization) 
 
 
 - [Education](https://github.com/EsraaAh00/My_Projects/blob/main/README.md#education)  
@@ -47,6 +50,18 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** LSTM Model Performance: The LSTM model emerges as the top performer with remarkable accuracy, demonstrating a low Mean Absolute Error (MAE) of 637.830, a minimal Mean Absolute Percentage Error (MAPE) of 2.368%, and a precise Root Mean Squared Error (RMSE) of 903.149. The LSTM model shows proficiency in capturing complex temporal dependencies in Bitcoin price data, achieving an accuracy rate of 97.66%.GARCH Model Performance: The GARCH model excels in addressing volatility aspects, as indicated by its competitive RMSE of 3.516, MAE of 3.031, and notable MAPE of 28.902%.The results suggest that LSTM is an adept pattern recognizer, while GARCH effectively handles volatility, making them the top-performing models for Bitcoin price forecasting.
 
+### Customer Churn Analysis
+**Code:** [`CustomerChurn-RandomForestModel.ipynb`](https://github.com/EsraaAh00/My_Projects/blob/b34ef08bd9fb4998ef51453129313024f9a24ce9/Customer%20Churn%20prediction%20and%20Visualization/CustomerChurn-RandomForestModel.ipynb)
+
+**Goal:** This project aims to analyze customer churn using SQL for data processing, Power BI for data visualization, and a Random Forest machine learning model for prediction.
+
+**Description:** In today's competitive business landscape, retaining customers is essential for long-term success. Churn analysis helps understand and reduce customer attrition by examining customer data to identify patterns and reasons behind their departures. Through advanced data analytics and machine learning, businesses can predict which customers are likely to leave and understand the factors influencing their decisions. This insight enables companies to take proactive measures to enhance customer satisfaction and loyalty.
+
+**Skills:** Data Extraction and Cleaning with SQL, Data Visualization with Power BI, Machine Learning Model Building and Evaluation with Python.
+
+**Technology:** SQL: Used for extracting and cleaning data from the database, Power BI: Utilized for creating interactive visualizations and dashboards, Python: Employed for building the Random Forest classifier and evaluating its performance.
+
+**Results:** The churn analysis project yielded significant insights through the Random Forest model. The confusion matrix revealed 777 true negatives, 59 false positives, 138 false negatives, and 228 true positives. The classification report showed an overall accuracy of 84%, with the precision, recall, and F1-scores for non-churners being 0.85, 0.93, and 0.89, respectively, and for churners being 0.79, 0.62, and 0.70, respectively. Feature importance analysis identified total revenue, contract type, and total charges as the top predictors, offering valuable insights for targeted customer retention strategies.
 
 ## Education
 University of Science Malaysia, Powered by the Ministry of Information and Technology (MCIT): Master of Business Analytics, 02/2023 – 03/2024 Grade: Excellent
