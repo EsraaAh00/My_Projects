@@ -24,9 +24,11 @@ This project aims to analyze customer churn using SQL for data processing, Power
 	- Power BI: For data visualization and interactive dashboards.
 	- Python: For building and evaluating the machine learning model.
 
-# Summary DASHBOARD
+## Summary DASHBOARD
+![Summary Dashboard](https://github.com/user-attachments/assets/ca39d084-7f70-49dd-b2f9-8dbe8715b1d8)
 
-# Prediction DASHBOARD
+## Prediction DASHBOARD
+![Prediction Dashboard](https://github.com/user-attachments/assets/5b23a096-99a2-471b-a8f9-ae97fb3c4f7a)
 
 ## Usage
 	- Data Extraction: Run the SQL queries to prepare the dataset.
